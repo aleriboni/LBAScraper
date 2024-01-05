@@ -1,5 +1,10 @@
 # LBAScraper
 
+From there, you can set up the Conda environment:
+```shell
+conda env create -f environment.yml
+conda activate LBAScrapeR
+```
 
 # Default run
 ```shell
